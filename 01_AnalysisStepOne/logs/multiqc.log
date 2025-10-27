@@ -1,0 +1,11 @@
+
+/// MultiQC 🔍 v1.29
+
+     version_check | MultiQC Version v1.30 now available!
+       file_search | Search path: /home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results
+
+            fastqc | Found 12 reports
+
+     write_results | Data        : QC_reports/multiqc_data
+     write_results | Report      : QC_reports/multiqc_report.html
+           multiqc | MultiQC complete

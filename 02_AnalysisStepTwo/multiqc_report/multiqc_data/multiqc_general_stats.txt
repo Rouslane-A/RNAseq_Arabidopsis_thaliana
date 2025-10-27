@@ -1,0 +1,13 @@
+Sample	samtools_flagstat-flagstat_total	samtools_flagstat-mapped_passed	samtools_flagstat-mapped_passed_pct	bowtie_2_hisat2-overall_alignment_rate
+SRR4420293_flagstat	51.408705	50.17939	97.61	
+SRR4420293_hisat2				96.27
+SRR4420294_flagstat	135.332108	133.206657	98.43	
+SRR4420294_hisat2				97.2
+SRR4420295_flagstat	49.572421	48.306605999999995	97.45	
+SRR4420295_hisat2				96.03
+SRR4420296_flagstat	47.526478999999995	44.53512	93.71	
+SRR4420296_hisat2				92.68
+SRR4420297_flagstat	68.570666	66.898487	97.56	
+SRR4420297_hisat2				96.08
+SRR4420298_flagstat	74.50472599999999	73.02704899999999	98.02	
+SRR4420298_hisat2				96.72

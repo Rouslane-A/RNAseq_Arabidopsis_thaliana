@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR4420293_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420293_1_fastqc.zip
+FastQC	all_sections	SRR4420293_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420293_2_fastqc.zip
+FastQC	all_sections	SRR4420294_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420294_1_fastqc.zip
+FastQC	all_sections	SRR4420294_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420294_2_fastqc.zip
+FastQC	all_sections	SRR4420295_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420295_1_fastqc.zip
+FastQC	all_sections	SRR4420295_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420295_2_fastqc.zip
+FastQC	all_sections	SRR4420296_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420296_1_fastqc.zip
+FastQC	all_sections	SRR4420296_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420296_2_fastqc.zip
+FastQC	all_sections	SRR4420297_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420297_1_fastqc.zip
+FastQC	all_sections	SRR4420297_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420297_2_fastqc.zip
+FastQC	all_sections	SRR4420298_1	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420298_1_fastqc.zip
+FastQC	all_sections	SRR4420298_2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/01_AnalysisStepOne/FastQC_results/SRR4420298_2_fastqc.zip

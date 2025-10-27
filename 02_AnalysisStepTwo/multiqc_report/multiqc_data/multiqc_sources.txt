@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	SRR4420293_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420293_flagstat.txt
+Samtools	flagstat	SRR4420294_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420294_flagstat.txt
+Samtools	flagstat	SRR4420295_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420295_flagstat.txt
+Samtools	flagstat	SRR4420296_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420296_flagstat.txt
+Samtools	flagstat	SRR4420297_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420297_flagstat.txt
+Samtools	flagstat	SRR4420298_flagstat	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420298_flagstat.txt
+Bowtie 2 / HiSAT2	all_sections	SRR4420293_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420293_hisat2.log
+Bowtie 2 / HiSAT2	all_sections	SRR4420294_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420294_hisat2.log
+Bowtie 2 / HiSAT2	all_sections	SRR4420295_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420295_hisat2.log
+Bowtie 2 / HiSAT2	all_sections	SRR4420296_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420296_hisat2.log
+Bowtie 2 / HiSAT2	all_sections	SRR4420297_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420297_hisat2.log
+Bowtie 2 / HiSAT2	all_sections	SRR4420298_hisat2	/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/02_AnalysisStepTwo/logs/SRR4420298_hisat2.log

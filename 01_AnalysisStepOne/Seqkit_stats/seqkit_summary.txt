@@ -1,0 +1,13 @@
+file                                                                                       format  type    num_seqs        sum_len  min_len  avg_len  max_len
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420297_2.fastq.gz  FASTQ   DNA   21,336,824  2,133,682,400      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420295_1.fastq.gz  FASTQ   DNA   15,959,437  1,595,943,700      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420298_2.fastq.gz  FASTQ   DNA   22,538,226  2,253,822,600      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420293_1.fastq.gz  FASTQ   DNA   16,473,386  1,647,338,600      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420294_2.fastq.gz  FASTQ   DNA   38,020,529  3,802,052,900      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420293_2.fastq.gz  FASTQ   DNA   16,473,386  1,647,338,600      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420294_1.fastq.gz  FASTQ   DNA   38,020,529  3,802,052,900      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420296_1.fastq.gz  FASTQ   DNA   20,425,972  2,042,597,200      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420296_2.fastq.gz  FASTQ   DNA   20,425,972  2,042,597,200      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420295_2.fastq.gz  FASTQ   DNA   15,959,437  1,595,943,700      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420298_1.fastq.gz  FASTQ   DNA   22,538,226  2,253,822,600      100      100      100
+/home/rouslane/Documents/Bioinformatics-Projects/RNA-seq/00_RawData/SRR4420297_1.fastq.gz  FASTQ   DNA   21,336,824  2,133,682,400      100      100      100
